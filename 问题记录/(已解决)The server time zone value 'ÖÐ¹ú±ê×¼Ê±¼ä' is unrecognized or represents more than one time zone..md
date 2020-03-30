@@ -2,7 +2,7 @@
 title: (已解决)The server time zone value 'ÖÐ¹ú±ê×¼Ê±¼ä' is unrecognized or represents more than one time zone.
 tags: mysql
 categories: 问题记录
-date:2019-05-12
+date: 2019-05-12
 ---
 
 

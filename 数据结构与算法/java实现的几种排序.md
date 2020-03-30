@@ -5,8 +5,6 @@ categories: 数据结构与算法
 date: 2019-04-16
 ---
 
-<div align='center' ><font size='70'>java实现的几种排序</font></div>
-
 # 插入排序
 实现代码：
 

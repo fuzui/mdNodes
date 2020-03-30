@@ -4,8 +4,6 @@ tags: [设计模式,Adapter]
 categories: 设计模式
 date: 2019-04-02
 ---
-<div align='center' ><font size='70'>java设计模式之适配器模式Adapter</font></div>
-
 ***简介：***
 
 >Adapter是结构模式之一。把一个类的接口变换成客户端所期待的另一种接口，从而使原本因接口不匹配而无法在一起工作的两个类能够在一起工作

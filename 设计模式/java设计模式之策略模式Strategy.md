@@ -5,7 +5,7 @@ categories: 设计模式
 date: 2019-03-30
 ---
 
-<div align='center' ><font size='70'>java设计模式之策略模式Strategy</font></div>
+
 
 ***简介：***
 

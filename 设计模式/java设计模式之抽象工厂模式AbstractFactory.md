@@ -5,8 +5,6 @@ categories: 设计模式
 date: 2019-04-08
 ---
 
-<div align='center' ><font size='70'>java设计模式之抽象工厂模式AbstractFactory</font></div>
-
 ***简介：***
 
 >AbstractFactory是创建型模式之一。是所有工厂模式中最为抽象和最其一般性的。抽象工程模式可以向客户端提供一个接口，使得客户端在不必指定产品的具体类型的情况下，能够创建多个产品族的产品对象。

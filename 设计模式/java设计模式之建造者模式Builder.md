@@ -4,8 +4,6 @@ tags: [设计模式,Builder]
 categories: 设计模式
 date: 2019-04-01
 ---
-<div align='center' ><font size='70'>java设计模式之建造者模式Builder</font></div>
-
 ***简介：***
 
 >Builder是创建模式之一，是对象的创建模式。建造模式可以将一个产品的内部表象与产品的生产过程分割开来，从而可以使一个建造过程生产具有不同的内部表象的产品对象。

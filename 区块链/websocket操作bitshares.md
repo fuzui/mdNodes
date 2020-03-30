@@ -5,8 +5,6 @@ categories: 区块链
 date: 2019-08-21
 ---
 
-<div align='center' ><font size='70'>websocket操作bitshares</font></div>
-
 #### 一、安装 ####
 
 ```shell

@@ -4,8 +4,6 @@ tags: [设计模式,Prototype]
 categories: 设计模式
 date: 2019-04-02
 ---
-<div align='center' ><font size='70'>java设计模式之原型模式Prototype</font></div>
-
 ***简介：***
 
 >Prototype是创建模式之一。通过给出一个原型对象来致命所有创建的对象的类型，然后用复制这个原型对象的办法创建出更多同类型的对象。
