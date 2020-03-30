@@ -5,8 +5,6 @@ categories: git
 date: 2019-07-01
 ---
 
-<div align='center' ><font size='70'>git合并分支</font></div>
-
 将远程分支合并到自己分支上：
 先在自己分支上，
 切到目标分支，

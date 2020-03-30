@@ -4,8 +4,6 @@ date: 2019-07-05 15:28:34
 tags: PostgreSQL
 categories: PostgreSQL
 ---
- <div align='center' ><font size='70'>PostgreSQL导入sql文件</font></div>
-
 最近新项目中用到PostgreSQL，运行测试导入表结构和数据是必须的，用navicat导入sql文件报错，之后查询了一下资料，得到了正确的导入方式：
 <!-- more -->
 1.命令行（cmd或powershell）进入PostgreSQL安装目录

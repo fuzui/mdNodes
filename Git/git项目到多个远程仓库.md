@@ -5,8 +5,6 @@ categories: git
 date: 2019-07-01
 ---
 
-<div align='center' ><font size='70'>git项目到多个远程仓库</font></div>
-
 #### 一、关联多个仓库
 
 主要命令 `git remote add <refs> <addr>`

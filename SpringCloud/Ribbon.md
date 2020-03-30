@@ -5,8 +5,6 @@ categories: SpringCloud
 date: 2019-07-28
 ---
 
-<div align='center' ><font size='70'>Ribbon</font></div>
-
 概念：
 
 >Spring Cloud Ribbon是基于Netfix Ribbon实现的一套客户端   负载均衡的工具。

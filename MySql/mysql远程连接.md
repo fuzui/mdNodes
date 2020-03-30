@@ -5,8 +5,6 @@ tags: MySQL
 categories: MySQL
 ---
 
-<div align='center' ><font size='70'>MySQL远程连接</font></div>
-
 设置权限 %表示允许远程
 
 ```sql

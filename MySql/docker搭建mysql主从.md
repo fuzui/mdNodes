@@ -5,8 +5,6 @@ tags: MySql
 categories: MySql
 ---
 
-<div align='center' ><font size='70'>docker搭建mysql主从</font></div>
-
 # 1.获取镜像
 
 ```shell

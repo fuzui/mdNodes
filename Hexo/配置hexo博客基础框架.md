@@ -5,8 +5,6 @@ tags: Hexo
 categories: Hexo
 ---
 
-<div align='center' ><font size='70'>配置hexo博客基础框架</font></div>
-
 1.安装node.js
 
 2.安装hexo

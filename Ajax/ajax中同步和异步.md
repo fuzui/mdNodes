@@ -5,8 +5,6 @@ categories: JavaScript
 date: 2019-04-16
 ---
 
-<div align='center' ><font size='70'>ajax中同步和异步</font></div>
-
 AJAX中根据async的值不同分为同步（async = false）和异步（async = true）两种执行方式；在W3C的教程中推荐使用异步执行；
 
 ```javascript

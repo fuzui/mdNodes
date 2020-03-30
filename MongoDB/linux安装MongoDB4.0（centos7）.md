@@ -5,8 +5,6 @@ tags: [linux，MongoDB]
 categories: MongoDB
 ---
 
-<div align='center' ><font size='70'>linux安装MongoDB4.0（centos7）</font></div>
-
 <!-- more -->
 
 #### 1. 配置包管理系统（yum） ####

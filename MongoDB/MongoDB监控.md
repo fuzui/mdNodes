@@ -5,8 +5,6 @@ categories: MongoDB
 date: 2019-04-17
 ---
 
-<div align='center' ><font size='70'>MongoDB监控</font></div>
-
 #### 一、原生管理接口监控 ####
 
 * REST接口：

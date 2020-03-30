@@ -5,8 +5,6 @@ tags: MongoDB
 categories: MongoDB
 ---
 
-<div align='center' ><font size='70'>MongoDB复制集介绍及搭建</font></div>
-
 **简介**
 
 >为了防止数据错误和丢失，采用复制集可以数据同步到多个服务器，提供了数据的冗余备份，在多个服务器上存储数据副本，提高了数据的可用性，保证了数据的安全性。

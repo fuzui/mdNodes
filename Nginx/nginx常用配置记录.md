@@ -5,8 +5,6 @@ categories: Nginx
 date: 2020-02-17
 ---
 
-<div align='center' ><font size='70'>nginx常用配置记录</font></div>
-
 # 一、前言
 
 在平时用的nginx挺多，但是并不熟悉nginx的配置，所以打算查阅网上资料整理一篇笔记方便自己以后回顾。

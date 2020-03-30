@@ -5,8 +5,6 @@ tags: MySQL
 categories: MySQL
 ---
 
-<div align='center' ><font size='70'>CentOS7 重置 MySQL各版本密码</font></div>
-
 # 1.查看自动生成的密码
 
 安装完成后 MySQL会给我们自动生成一个随机密码

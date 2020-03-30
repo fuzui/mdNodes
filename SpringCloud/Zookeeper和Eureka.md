@@ -5,8 +5,6 @@ categories: SpringCloud
 date: 2019-07-28
 ---
 
-<div align='center' ><font size='70'>Zookeeper和Eureka</font></div>
-
 CAP概念：
 最多只能同时较好的满足两个。
 CAP理论的核心是：一个分布式系统不可能同时很好的满足一致性、可用性和分区容错性这三个需求，因此，根据CAP原理将NoSQL数据库分成了满足CA原则、满足CP原则和满足AP原则三大类：

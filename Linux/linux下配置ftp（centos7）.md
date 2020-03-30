@@ -4,8 +4,6 @@ date: 2019-03-25 14:49:51
 tags: [linux,ftp]
 categories: linux
 ---
-<div align='center' ><font size='70'>linux下配置ftp（centos7）</font></div>
-
 #### 1.安装 ####
 
 ##### &emsp;1.1 准备工作 #####

@@ -5,8 +5,6 @@ categories: node
 date: 2019-08-01
 ---
 
-<div align='center' ><font size='70'>node基础</font></div>
-
 #### 一、模块 ####
 
 ##### 定义：

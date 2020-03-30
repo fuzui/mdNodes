@@ -5,8 +5,6 @@ tags: MySQL
 categories: MySQL
 ---
 
-<div align='center' ><font size='70'>MySQL索引</font></div>
-
 # 1.索引的本质
 
 * 索引是帮主MySQL高效获取数据的排好序的数据结构；

@@ -4,8 +4,6 @@ date: 2019-03-27 23:34:48
 tags: [linux,hadoop]
 categories: hadoop
 ---
-<div align='center' ><font size='70'>Hadoop从零开始搭建完全分布式</font></div>
-
 **简介：**
 
 >由三个或以上实体机或虚拟机组成的集群。

@@ -5,8 +5,6 @@ categories: linux
 date: 2019-04-07
 ---
 
-<div align='center' ><font size='70'>centos系统及内核升级</font></div>
-
 #### 一、检测版本
 
   ####

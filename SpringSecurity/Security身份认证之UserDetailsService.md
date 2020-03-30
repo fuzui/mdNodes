@@ -4,8 +4,6 @@ date: 2019-05-08 22:11:41
 tags: springSecurity
 categories: springSecurity
 ---
- <div align='center' ><font size='70'>Security身份认证之UserDetailsService</font></div>
-
 之前我们采用了配置文件的方式从数据库中读取用户进行登录。虽然该方式的灵活性相较于静态账号密码的方式灵活了许多，但是将数据库的结构暴露在明显的位置上，绝对不是一个明智的做法。本文通过Java代码实现UserDetailsService接口来实现身份认证。
 
 

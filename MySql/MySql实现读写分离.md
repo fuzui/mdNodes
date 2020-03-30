@@ -5,8 +5,6 @@ categories: MySql
 date: 2019-03-17
 ---
 
-<div align='center' ><font size='70'>MySql实现读写分离</font></div>
-
 > 一个是主库，负责写入数据，成为写库；
 >
 > 其他都是从库，负责读取数据，成为读库。

@@ -5,8 +5,6 @@ categories: MySql
 date: 2019-05-30
 ---
 
-<div align='center' ><font size='70'>MySQL 性能优化神器 Explain 使用分析</font></div>
-
 > 简介：
 > MySQL 提供了一个 EXPLAIN 命令, 它可以对 SELECT 语句进行分析, 并输出 SELECT 执行的详细信息, 以供开发人员针对性优化
 

@@ -5,8 +5,6 @@ categories: MySql
 date: 2019-06-09
 ---
 
-<div align='center' ><font size='70'>sql优化</font></div>
-
 #### 一、原生优化 ####
 
 1.适当添加索引

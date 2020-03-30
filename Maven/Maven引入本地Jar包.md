@@ -5,8 +5,6 @@ categories: maven
 date: 2019-12-24
 ---
 
-<div align='center' ><font size='70'>Maven引入本地Jar包</font></div>
-
 #### 问题简述
 
 最近使用SpringBoot做项目，需要引入其他工程的POJO包，由于第一次接触Maven，所以在网上随便找了一则例子将jar包放到工程下的lib（根目录新建）文件夹中，然后pom中引入，工程开发测试都OK，但是打包发布时，目录lib下的jar包总是打不进去，网上搜寻好久才找到答案，在此分享给大家。

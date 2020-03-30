@@ -5,10 +5,6 @@ categories: docker
 date: 2019-03-16
 ---
 
-<div align='center' ><font size='70'>docker hub</font></div>
-
-
-
 # 1.拥有一个镜像
 `docker pull      `
 

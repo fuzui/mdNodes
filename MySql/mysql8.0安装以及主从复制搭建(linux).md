@@ -5,8 +5,6 @@ tags: MySql
 categories: MySql
 ---
 
-<div align='center' ><font size='70'>mysql8.0安装以及主从复制搭建</font></div>
-
 **一主一从：**
 前提：
 

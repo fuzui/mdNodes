@@ -5,8 +5,6 @@ categories: linux
 date: 2019-03-25
 ---
 
-<div align='center' ><font size='70'>wget</font></div>
-
 * 安装
 
 ```shell

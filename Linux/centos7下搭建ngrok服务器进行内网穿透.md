@@ -4,8 +4,6 @@ date: 2019-11-07 16:08:52
 tags: 内网穿透
 categories: linux
 ---
-<div align='center' ><font size='70'>centos7下搭建ngrok服务器进行内网穿透</font></div>
-
 以下以阿里云centos7服务器为例，并且已经安装好git、golang
 
 ### 一、下载ngrok

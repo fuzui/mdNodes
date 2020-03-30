@@ -5,8 +5,6 @@ categories: SpringCloud
 date: 2019-07-28
 ---
 
-<div align='center' ><font size='70'>Eureka</font></div>
-
 概念：
 
 >Netflix在设计Eureka时遵循AP原则

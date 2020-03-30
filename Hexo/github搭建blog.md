@@ -5,8 +5,6 @@ tags: Hexo
 categories: Hexo
 ---
 
-<div align='center' ><font size='70'>github搭建blog</font></div>
-
 1.前往github新建一个项目
 
 ​	项目名称为：`fuzui.github.io`

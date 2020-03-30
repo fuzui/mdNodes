@@ -4,8 +4,6 @@ date: 2019-03-25 19:35:18
 tags: [linux,hadoop]
 categories: hadoop
 ---
-<div align='center' ><font size='70'>Hadoop搭建伪分布式</font></div>
-
 ### ==概念==  ###
 
 >海量、高增长、多样化的信息数据

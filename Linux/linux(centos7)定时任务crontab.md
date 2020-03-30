@@ -4,8 +4,6 @@ tags: [linux,crontab]
 categories: linux
 date: 2019-04-06
 ---
-<div align='center' ><font size='70'>linux(centos7)定时任务crontab</font></div>
-
 >百度百科：crontab命令常见于Unix和类Unix的操作系统之中，用于设置周期性被执行的指令。该命令从标准输入设备读取指令，并将其存放于“crontab”文件中，以供之后读取和执行。该词来源于希腊语 chronos(χρνο)，原意是时间。通常，crontab储存的指令被守护进程激活， crond常常在后台运行，每一分钟检查是否有预定的作业需要执行。这类作业一般称为cron jobs。
 
 *在centos7中：*

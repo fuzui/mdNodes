@@ -5,8 +5,6 @@ categories: MongoDB
 date: 2019-04-17
 ---
 
-<div align='center' ><font size='70'>MongoDB用户</font></div>
-
 #### 1. 启用认证 ####
 
 在配置文件中添加

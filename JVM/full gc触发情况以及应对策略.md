@@ -1,15 +1,11 @@
 ---
 title: full gc触发情况以及应对策略 
-tags: jvm
+tags: JVM
 categories: JVM
 date: 2019-07-01
 ---
 
-<div align='center' ><font size='70'>full gc触发情况以及应对策略 </font></div>
-
 # 1、System.gc()方法的调用
-
- 
 
 此方法的调用是建议JVM进行Full GC,虽然只是建议而非一定,但很多情况下它会触发 Full GC,从而增加Full GC的频率,也即增加了间歇性停顿的次数。强烈影响系建议能不使用此方法就别使用，让虚拟机自己去管理它的内存，可通过通过-XX:+ DisableExplicitGC来禁止RMI调用System.gc。
 

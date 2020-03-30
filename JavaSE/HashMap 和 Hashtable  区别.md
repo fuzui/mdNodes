@@ -5,8 +5,6 @@ categories: javaSE
 date: 2019-04-08
 ---
 
-<div align='center' ><font size='70'>HashMap 和 Hashtable  区别</font></div>
-
 **1.是否线程安全**
 
 *	Hashtable是线程安全的。

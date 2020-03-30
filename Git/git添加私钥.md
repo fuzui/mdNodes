@@ -5,8 +5,6 @@ categories: git
 date: 2019-07-01
 ---
 
-<div align='center' ><font size='70'>git添加私钥</font></div>
-
 1.添加到bash
 `ssh-agent bash`
 

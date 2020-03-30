@@ -5,8 +5,6 @@ categories: linux
 date: 2019-03-11
 ---
 
-<div align='center' ><font size='70'>linux常用命令</font></div>
-
 ## 简要
 
 一些基本的linux命令，我认为像这些命令之类的，必须要多谢多用才能熟记。

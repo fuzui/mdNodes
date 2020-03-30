@@ -5,8 +5,6 @@ categories: MongoDB
 date: 2019-04-17
 ---
 
-<div align='center' ><font size='70'>MongoDB数据管理</font></div>
-
 #### 一、数据备份 ####
 
 `mongodump`

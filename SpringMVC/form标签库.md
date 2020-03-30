@@ -5,8 +5,6 @@ categories: SpringMVC
 date: 2019-03-07
 ---
 
-<div align='center' ><font size='70'>form标签库 </font></div>
-
 # 1.引入form标签库
 
 # 2.常用标签

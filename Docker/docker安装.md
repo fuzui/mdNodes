@@ -5,8 +5,6 @@ categories: docker
 date: 2019-04-07
 ---
 
- <div align='center' ><font size='70'>docker安装</font></div>
-
 # 安装docke
 
 ```shell

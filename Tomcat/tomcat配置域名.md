@@ -5,8 +5,6 @@ categories: tomcat
 date: 2019-03-15
 ---
 
-<div align='center' ><font size='70'>tomcat配置域名 </font></div>
-
 在server.xml中加入以下：
 
 ```xm

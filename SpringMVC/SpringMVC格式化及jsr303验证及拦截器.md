@@ -5,10 +5,6 @@ categories: SpringMVC
 date: 2019-03-07
 ---
 
-<div align='center' ><font size='70'>SpringMVC格式化及jsr303验证及拦截器</font></div>
-
-
-
 # 一、数字格式化
 
 * `<mvc:annotation-driven>`

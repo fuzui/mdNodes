@@ -4,8 +4,6 @@ date: 2019-07-01 16:49:43
 tags: MySql
 categories: MySql
 ---
-<div align='center' ><font size='70'>MySql利用存储过程批量插入一千万数据</font></div>
-
 示例：
 向`user`表中插入一千万条数据，其中`user_id`11位手机号随机，可以重复；`age`为18-27之间；`count`随机金额，八位小数；`status`二百万数据为1，八百万数据为0。
 

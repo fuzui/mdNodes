@@ -5,8 +5,6 @@ tags: MongoDB
 categories: MongoDB
 ---
 
-<div align='center' ><font size='70'>Spring+MongoDB方法</font></div>
-
 ```java
 import java.util.ArrayList;
 import java.util.List;

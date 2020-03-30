@@ -4,8 +4,6 @@ date: 2019-04-03 15:37:58
 tags: [linux,hadoop,hive]
 categories: hadoop
 ---
-<div align='center' ><font size='70'>HIVE的搭建配置及关联MySQL</font></div>
-
 **概念：**
 
 >Hive是由Facebook实现并开源。是基于Hadoop的一个数据仓库工具，可以将结构化的数据映射为一张数据库表，并提供HQL（Hive SQL）查询功能。其底层数据时存储在HDFS上。Hive的本质是将SQL语句转换为MapReduce任务运行，使部署需MapReduce的用户很方便地利用HQL处理和计算HDFS上的结构化数据，使用于离线的批量数据计算。

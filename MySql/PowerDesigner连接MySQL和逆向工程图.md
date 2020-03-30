@@ -4,8 +4,6 @@ date: 2019-05-12 23:21:27
 tags: powerdesigner
 categories: 工具
 ---
-<div align='center' ><font size='70'>PowerDesigner连接MySQL和逆向工程图</font></div>
-
 ### 0、写在前面的话
 
 最近想梳理公司项目的表间关系，从项目后台管理系统的操作入手，以及代码的hibernate注解入手，都不算特别尽人意，于是最后还是鼓捣了一下PowerDesigner的逆向工程图，这样更直观一些。

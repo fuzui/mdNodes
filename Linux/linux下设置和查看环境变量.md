@@ -5,8 +5,6 @@ categories: linux
 date: 2019-03-16
 ---
 
-<div align='center' ><font size='70'>linux下设置和查看环境变量</font></div>
-
 # Linux的变量种类
 
 按变量的生存周期来划分，Linux变量可分为两类：

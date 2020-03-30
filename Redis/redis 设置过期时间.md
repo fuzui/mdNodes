@@ -5,8 +5,6 @@ categories: redis
 date: 2019-06-03
 ---
 
-<div align='center' ><font size='70'>redis 设置过期时间</font></div>
-
 #### 一、原生
 
 ```shell

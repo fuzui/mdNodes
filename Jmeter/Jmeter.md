@@ -5,8 +5,6 @@ categories: Jmeter
 date: 2020-02-01
 ---
 
-<div align='center' ><font size='70'>Jmeter</font></div>
-
 #### 一、 概念
 
 > 是apache组织开发的基于java的压力测试工具

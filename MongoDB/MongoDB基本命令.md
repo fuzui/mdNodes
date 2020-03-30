@@ -5,8 +5,6 @@ tags: MongoDB
 categories: MongoDB
 ---
 
-<div align='center' ><font size='70'>MongoDB基本命令</font></div>
-
 # 1.创建数据库
 
 ```shell

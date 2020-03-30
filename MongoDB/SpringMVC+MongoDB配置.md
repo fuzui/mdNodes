@@ -5,8 +5,6 @@ tags: MongoDB
 categories: MongoDB
 ---
 
-<div align='center' ><font size='70'>SpringMVC+MongoDB配置</font></div>
-
 #  pom.xml
 
 ```xml

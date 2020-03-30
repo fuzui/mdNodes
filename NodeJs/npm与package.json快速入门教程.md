@@ -4,8 +4,6 @@ date: 2019-07-05 15:26:00
 tags: nodeJs
 categories: nodeJs
 ---
-<div align='center' ><font size='70'>npm与package.json快速入门教程</font></div>
-
 npm 是前端开发广泛使用的包管理工具，之前使用 Weex 时看了阮一峰前辈的文章了解了一些，这次结合官方文章总结一下，加深下理解吧！
 
 [toc]

@@ -5,8 +5,6 @@ categories: SpringCloud
 date: 2019-07-28
 ---
 
-<div align='center' ><font size='70'>Hystrix</font></div>
-
 前景：
 
 服务雪崩
